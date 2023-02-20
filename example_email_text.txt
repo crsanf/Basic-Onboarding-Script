@@ -1,0 +1,6 @@
+Subject: New Employee | first_name last_name | Starting XYZ
+
+Body:
+first_name last_name
+email
+position_title
