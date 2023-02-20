@@ -10,7 +10,7 @@ This is not an ideal way to onboard people. If your company is small enough, you
 - To share information between HR and IT and whoever else may need it
 
 # Before Running
-- Change the 'ticketSystemEmail' variable
+- Change the `ticketSystemEmail` variable
 
 # Running the Script
 - Create the Spreadsheet
